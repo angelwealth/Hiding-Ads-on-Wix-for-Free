@@ -48,3 +48,4 @@ Please do the name for `mobile.html`:
 </html>
 ```
 After that, you should be done. But how will people get to the site that doesn't show the ad, we need to setup a domain.
+#Setting up your own Domain

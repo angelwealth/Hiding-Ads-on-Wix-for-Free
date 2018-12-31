@@ -66,3 +66,6 @@ To get a paid domain, I recommend something like [Namecheap](https://www.nameche
 # Getting Free SSL for your Domain
 To get free SSL for your domain, [CloudFlare](https://www.cloudflare.com/partners/getting-started/) is the best choice.
 Go [here](https://www.cloudflare.com/partners/getting-started/) to learn how to set it up!
+
+
+This might be unfinished ._.

@@ -1,3 +1,8 @@
+# Before:
+![Before](https://raw.githubusercontent.com/CorbsEditor/Hiding-Ads-on-Wix-for-Free/master/Preview/Before.png)
+# After:
+![After](https://raw.githubusercontent.com/CorbsEditor/Hiding-Ads-on-Wix-for-Free/master/Preview/After.png)
+
 # How to Hide Ads on your Wixsite for Free
 First, we need to create an HTML file, what is a HTML file:
 HTML is a HyperText Markup Language file format used as the basis of a web page. HTML is a file extension used interchangeably with HTM. HTML is consists of tags surrounded by angle brackets. The HTML tags can be used to define headings, paragraphs, lists, links, quotes, and interactive forms.
@@ -8,6 +13,7 @@ If you're already familiar with how hosting works, please move on pass this next
 # Setting up your HTML file for your Wixsite
 Create `index.html` file if you haven't already. For mobile, make sure to also create a file named `mobile.html`.
 Put the following code in the `index.html` file, more will be explained below it: 
+
 ```
 
 </head><body>
@@ -31,9 +37,11 @@ document.location = "/Mobile.html";
 
 </body></html>
 ```
+
 Where <title> is, please put the name of your site. <title> is what displays the name in the tab of a web browser.
 where <iframe> is, we're going to edit the link that is in the iFrame. Change the username to your Wix username and change the name to what your site is called on Wix. Everything in the iFrame should remain as it is, the coding next to style is what helps remove the ads. 
 Please do the name for `mobile.html`:
+  
 ```
 <html>
   <title>My Wix Site</title>
@@ -47,5 +55,14 @@ Please do the name for `mobile.html`:
   </body>
 </html>
 ```
+
 After that, you should be done. But how will people get to the site that doesn't show the ad, we need to setup a domain.
-#Setting up your own Domain
+# Setting up your own Domain
+Setting up a free domain: `.cf .tk .ml .ga .gq`
+If you're planning on getting a free domain, you get only get .cf .tk .ml .ga and a .gq domain, .com domains are not free.
+To get a free domain, [Freenom](https://www.freenom.com/) offers this.
+Setting up a paid domain: `.com .net .org .edu .studio .blog .entertainment` etc...
+To get a paid domain, I recommend something like [Namecheap](https://www.namecheap.com/), [GoDaddy](https://www.godaddy.com/), or maybe [Freenom](https://www.freenom.com/).
+# Getting Free SSL for your Domain
+To get free SSL for your domain, [CloudFlare](https://www.cloudflare.com/partners/getting-started/) is the best choice.
+Go [here](https://www.cloudflare.com/partners/getting-started/) to learn how to set it up!

@@ -6,7 +6,7 @@
 # How to Hide Ads on your Wixsite for Free
 First, we need to create an HTML file, what is a HTML file:
 HTML is a HyperText Markup Language file format used as the basis of a web page. HTML is a file extension used interchangeably with HTM. HTML is consists of tags surrounded by angle brackets. The HTML tags can be used to define headings, paragraphs, lists, links, quotes, and interactive forms.
-But where to put it? You'll need to host your own site somewhere like [Glitch](https://glitch.com/), [Github](https://github.com/], or [creating your own home server](https://www.cloudwards.net/how-to-host-your-own-website/).
+But where to put it? You'll need to host your own site somewhere like [Glitch](https://glitch.com/), [Github](https://github.com/), or [creating your own home server](https://www.cloudwards.net/how-to-host-your-own-website/).
 If you're already familiar with how hosting works, please move on pass this next section.
 # Hosting 
 

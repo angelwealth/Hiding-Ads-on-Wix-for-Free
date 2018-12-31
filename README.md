@@ -40,7 +40,7 @@ document.location = "/Mobile.html";
 
 Where <title> is, please put the name of your site. <title> is what displays the name in the tab of a web browser.
 where <iframe> is, we're going to edit the link that is in the iFrame. Change the username to your Wix username and change the name to what your site is called on Wix. Everything in the iFrame should remain as it is, the coding next to style is what helps remove the ads. 
-Please do the name for `mobile.html`:
+Please do the same for `mobile.html`:
   
 ```
 <html>
